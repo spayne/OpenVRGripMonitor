@@ -1,0 +1,23 @@
+{
+      "default_bindings": [], 
+  "actions": [
+    {
+      "name": "/actions/demo/in/grip_action",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/demo/in/grip_action_val_1",
+      "type": "vector1"
+    },
+    {
+      "name": "/actions/demo/in/grip_action_val_2",
+      "type": "vector1"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/demo",
+      "usage": "leftright"
+    },
+    "localization" : []
+}
