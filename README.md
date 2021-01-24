@@ -1,1 +1,3 @@
-Trace a boolean variable and two floats to determine the floating point history before and after the boolean flips
+A grip has both a floating point value and a grip value.  This program shows at what (floating point) point the boolean value flips.
+
+
